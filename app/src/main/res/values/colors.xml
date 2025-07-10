@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Chess Board Colors -->
+    <color name="chess_light_square">#F0E68C</color>
+    <color name="chess_dark_square">#D2691E</color>
+    <color name="chess_selected_square">#FFD700</color>
+    <color name="chess_valid_move">#98FB98</color>
+
+    <!-- UI Colors -->
+    <color name="primary_dark">#2C3E50</color>
+    <color name="primary_light">#34495E</color>
+    <color name="accent_blue">#3498DB</color>
+    <color name="accent_light_blue">#5DADE2</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="background_dark">#E9ECEF</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#2C3E50</color>
+    <color name="text_secondary">#7F8C8D</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Border Colors -->
+    <color name="border_light">#E0E0E0</color>
+    <color name="border_medium">#BDC3C7</color>
+    <color name="border_dark">#95A5A6</color>
+</resources>

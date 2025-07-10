@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hard Chess</string>
+
+    <!-- Game Interface -->
+    <string name="white_turn">Beyaz Oyuncunun Sırası</string>
+    <string name="black_turn">Siyah Oyuncunun Sırası</string>
+    <string name="move_label">Hamle</string>
+    <string name="time_label">Süre</string>
+    <string name="restart_game">Yeniden Başlat</string>
+    <string name="undo_move">Geri Al</string>
+
+    <!-- Game Messages -->
+    <string name="invalid_move">Geçersiz hareket!</string>
+    <string name="empty_square_selected">Boş kare seçildi, önce bir taş seçin.</string>
+    <string name="wrong_turn">Sıra %s oyuncuda!</string>
+    <string name="current_turn">Sıra %s oyuncuda.</string>
+    <string name="game_restarted">Oyun yeniden başlatıldı</string>
+    <string name="undo_feature_coming">Geri alma özelliği yakında eklenecek</string>
+
+    <!-- Content Descriptions -->
+    <string name="chess_square">Satranç Karesi R:%1$d C:%2$d</string>
+    <string name="chess_crown">Chess Crown</string>
+    <string name="settings">Settings</string>
+    <string name="current_player">Current Player</string>
+    <string name="restart_button">Yeniden Başlat</string>
+    <string name="undo_button">Geri Al</string>
+</resources>
